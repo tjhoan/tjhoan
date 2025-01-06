@@ -14,7 +14,7 @@ I am a **sixth-semester student** at **Universidad del Valle**, driven by a stro
 - **Apply my skills effectively** 💻
 - **Contribute meaningfully** to the success of the team 🤝
 
-I am currently seeking my **first professional opportunity** through an internship or an entry-level position where I can put my skills into practice and gain hands-on experience. I am also eager to **collaborate on innovative projects** that allow me to explore new technologies and develop software solutions that make a real-world impact.
+I am seeking my first professional opportunity through an internship or entry-level position to apply my skills and gain hands-on experience. I am eager to collaborate on innovative projects that explore new technologies and develop impactful software solutions.
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tjhoan&theme=dark&show_icons=true&count_private=true" alt="GitHub Stats" />
